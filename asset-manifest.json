@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ricki-morti/static/css/main.8ba260d4.chunk.css",
+    "main.js": "/ricki-morti/static/js/main.d090ff82.chunk.js",
+    "main.js.map": "/ricki-morti/static/js/main.d090ff82.chunk.js.map",
+    "runtime-main.js": "/ricki-morti/static/js/runtime-main.ff3cdf09.js",
+    "runtime-main.js.map": "/ricki-morti/static/js/runtime-main.ff3cdf09.js.map",
+    "static/css/2.fdcc06a5.chunk.css": "/ricki-morti/static/css/2.fdcc06a5.chunk.css",
+    "static/js/2.1a767d87.chunk.js": "/ricki-morti/static/js/2.1a767d87.chunk.js",
+    "static/js/2.1a767d87.chunk.js.map": "/ricki-morti/static/js/2.1a767d87.chunk.js.map",
+    "index.html": "/ricki-morti/index.html",
+    "static/css/2.fdcc06a5.chunk.css.map": "/ricki-morti/static/css/2.fdcc06a5.chunk.css.map",
+    "static/css/main.8ba260d4.chunk.css.map": "/ricki-morti/static/css/main.8ba260d4.chunk.css.map",
+    "static/js/2.1a767d87.chunk.js.LICENSE.txt": "/ricki-morti/static/js/2.1a767d87.chunk.js.LICENSE.txt",
+    "static/media/Left.e07e2a1f.png": "/ricki-morti/static/media/Left.e07e2a1f.png",
+    "static/media/logo.35fbbe13.png": "/ricki-morti/static/media/logo.35fbbe13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff3cdf09.js",
+    "static/css/2.fdcc06a5.chunk.css",
+    "static/js/2.1a767d87.chunk.js",
+    "static/css/main.8ba260d4.chunk.css",
+    "static/js/main.d090ff82.chunk.js"
+  ]
+}
